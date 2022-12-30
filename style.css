@@ -57,7 +57,8 @@ input:focus {
     width: 20px;
 }
 
-#button-login {
+#button-login,
+#main-button-signup {
     background-color: white;
     width: 284px;
     height: 50px;
@@ -78,14 +79,15 @@ input:focus {
 }
 
 #button-login:hover,
-#button-signup:hover {
+#button-signup:hover,
+#main-button-signup:hover {
     background-color: #c5c5c5;
 }
 
-#anchor {
+.anchor {
     color: #664b80;
 }
 
-#anchor:hover {
+.anchor:hover {
     text-decoration: underline;
 }

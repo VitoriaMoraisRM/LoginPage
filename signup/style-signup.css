@@ -1,0 +1,27 @@
+.form-label {
+    display: flex;
+    align-content: stretch;
+    color: #423053;
+}
+
+.form-input {
+    width: 250px;
+    height: 40px;
+    border: none;
+    border-radius: 25px;
+}
+
+.form {
+    padding: 10px;
+}
+
+#dateofbirth {
+    width: 250px;
+    color: #664b80
+}
+
+
+#anchor-to-login{
+    display: flex;
+    justify-content: flex-end;
+}
